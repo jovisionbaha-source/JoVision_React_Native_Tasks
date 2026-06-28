@@ -1,8 +1,8 @@
 import React from 'react';
-import Task18 from './Tasks/Task18';
+import Task18 from './Tasks/Task22';
 
 const App = () => {
-  return <Task18 />;
+  return <Task22 />;
 };
 
 export default App;
